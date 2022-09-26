@@ -1,0 +1,17 @@
+{
+  "name": "javascript_profesional",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html ejercicios/index.html ejercicios/**/*.html"
+  },
+  "author": "said mariano <smariano170@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  },
+  "browserlist":[
+    "last 1 Chrome version"
+  ]
+}
